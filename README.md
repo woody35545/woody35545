@@ -10,4 +10,8 @@ You can click the Preview link to take a look at your changes.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woody35545)](https://solved.ac/woody35545/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woody35545&show_icons=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+
+
+출처: https://eunhee-programming.tistory.com/244 [코드짜는 문과녀]
 <!-- theme = tokyonight-->
