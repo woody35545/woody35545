@@ -10,8 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woody35545)](https://solved.ac/woody35545/)
 
-<div align="left">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woody35545&show_icons=true&theme=vision-friendly-dark)
-<div align="right"> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)]
 </div>
