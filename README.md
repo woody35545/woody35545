@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
 
-출처: https://eunhee-programming.tistory.com/244 [코드짜는 문과녀]
+
 <!-- theme = tokyonight-->
