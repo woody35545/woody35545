@@ -8,6 +8,12 @@
 
 <br><br>
 
+### Languages
+---
+<img align = 'right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=woody35545&layout=compact&theme=tokyonight"></img>  
+<p align="left">- 👀 Laguages: C, Java, Python ..  </p>
+<br><br><br>
+
 ### About github works
 ---
 <img align = 'right' src="https://github-readme-stats.vercel.app/api?username=woody35545&show_icons=true&theme=vision-friendly-dark"></img>  
@@ -15,9 +21,5 @@
 <br><br><br><br><br><br><br>
 
 
-### Languages
----
-<img align = 'right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=woody35545&layout=compact&theme=tokyonight"></img>  
-<p align="left">- 👀 Laguages: C, Java, Python ..  </p>
-  
+
  
