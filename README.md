@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
         
 ### About github works
 ---
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woody35545&show_icons=true&theme=vision-friendly-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woody35545&layout=compact&theme=tokyonight)
-
+<img align = 'left' src="https://github-readme-stats.vercel.app/api?username=woody35545&show_icons=true&theme=vision-friendly-dark">
+<img align = 'right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=woody35545&layout=compact&theme=tokyonight">
+&nbsp;
+&nbsp;
