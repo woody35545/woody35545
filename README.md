@@ -11,7 +11,7 @@
 ### Languages
 ---
 <img align = 'right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=woody35545&layout=compact&theme=tokyonight"></img>  
-<p align="left">- 👀 Laguages: C, Java, Python ..  </p>
+<p align="left">- 👀 Laguages: C, Java, Python, Ocaml.. </p>
 <br><br><br><br><br>
 
 ### About github works
