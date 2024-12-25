@@ -1,11 +1,18 @@
 ## 📌 About me
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoody35545%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <img align = 'right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=woody35545"></img>  
-
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=300&size=18&duration=1000&color=000000&background=FFFFFF&vCenter=true&multiline=true&width=435&height=115&lines=.%2Finfo+;%E2%94%94%E2%94%80%3E+name%3A+woody;%E2%94%94%E2%94%80%3E+contact%3A+woody35545%40gmail.com;%E2%94%94%E2%94%80%3E+blog%3A+velog.io%2F%40woody35545)](https://git.io/typing-svg)
 -->
+  
+Hello 👋  
+My name is Woody, and I work as a backend developer.
+
+I have a keen interest in creating value through data and strive to grow every day into a more meticulous and skillful developer than I was yesterday. My focus lies in writing clean, efficient, and maintainable code while continuously exploring new technologies and methodologies to improve my craft.
+
+Currently, I am developing services based on **geospatial information (GIS)**, aiming to solve real-world problems and deliver meaningful user experiences. I am driven by a curiosity for innovation and a commitment to leveraging data to unlock its full potential in creating impactful solutions.  
+
+Thank you for visiting, and I hope you have a great day!
 
 <!--
 <p align="left">- 👋 Hi, I’m Woody. </p>  
