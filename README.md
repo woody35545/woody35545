@@ -7,8 +7,8 @@
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=300&size=18&duration=1000&color=000000&background=FFFFFF&vCenter=true&multiline=true&width=435&height=115&lines=.%2Finfo+;%E2%94%94%E2%94%80%3E+name%3A+woody;%E2%94%94%E2%94%80%3E+contact%3A+woody35545%40gmail.com;%E2%94%94%E2%94%80%3E+blog%3A+velog.io%2F%40woody35545)](https://git.io/typing-svg)
 -->
-  
-Hello 👋  
+
+Hello
 My name is Woody, and I work as a backend developer.
 
 I have a keen interest in creating value through data and strive to grow every day into a more meticulous and skillful developer than I was yesterday. My focus lies in writing clean, efficient, and maintainable code while continuously exploring new technologies and methodologies to improve my craft.
@@ -20,6 +20,7 @@ Thank you for visiting, and I hope you have a great day!
 <!--
 <p align="left">- 👋 Hi, I’m Woody. </p>  
 -->
+
 <p align="left">- <code>Contact</code> : woody35545@gmail.com  </p>  
 
 <!--<p align="left">- <code>Blog</code> : https://velog.io/@woody35545 </p>  
@@ -65,8 +66,9 @@ Thank you for visiting, and I hope you have a great day!
 -->
 
 
+<!--
 ## Contributions
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
+-->
 
