@@ -1,4 +1,4 @@
-## About me
+# ✓ About me
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoody35545%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -21,6 +21,7 @@ Thank you for visiting, and I hope you have a great day!
 <p align="left">- 👋 Hi, I’m Woody. </p>  
 -->
 
+# ✓ Profile & Contact
 <p align="left">- <code>Profile</code> : https://woody35545.github.io/ </p>
 <p align="left">- <code>Contact</code> : woody35545@gmail.com  </p>  
 
